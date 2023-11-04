@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lorin 洛林&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);空白无上&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -20,7 +20,7 @@
 
 [![空白无上's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbws13)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kbws13)](https://github.com/anuraghazra/github-readme-stats)
+[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kbws13&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi! Nice to meet you!
 
