@@ -9,11 +9,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <a href="https://kbws.xyz"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-  </div>
+  
 <p><b>Technology has the power to make the world a better place</b></p>
 
 </div>
@@ -23,11 +19,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbws13&layout=compact&langs_count=6"/>
 </div>
 
+## My Blog：<a href="https://kbws.xyz">空白无上</a>
+
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m @Lorin-github
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,Chrome plug -in development.
-- 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 👋 Hi, I’m kbws13
+- 👀 I ’m interest in Java, server development, database, computer network, operating system, etc.
+- 💞️ I hope to delve into Java related technologies.
+- 📫 How to reach me? Email: hsy040506@163.com
