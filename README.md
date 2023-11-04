@@ -18,9 +18,10 @@
 
 </div>
 
-[![空白无上's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbws13)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kbws13&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kbws13&show_icons=true&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbws13&layout=compact&langs_count=6"/>
+</div>
 
 ## Hi! Nice to meet you!
 
