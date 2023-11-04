@@ -15,9 +15,9 @@
     <a href="https://kbws.xyz"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
-[![空白无上](https://github-readme-stats.vercel.app/api?username=kbws13)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
+</div>
+[![空白无上](https://github-readme-stats.vercel.app/api?username=kbws13)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
