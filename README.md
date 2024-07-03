@@ -22,7 +22,6 @@
 
 ## Hi! Nice to meet you!
 
-
 <!-- 个人简介 -->
 - 👋 Hi, I’m kbws13
 - 👀 I ’m interest in Java, server development, database, computer network, operating system, etc.
