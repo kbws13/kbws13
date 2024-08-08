@@ -27,6 +27,6 @@
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m kbws13
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, etc.
+- 👀 I ’m interest in Java, server development, database, computer network etc.
 - 💞️ I hope to delve into Java related technologies.
 - 📫 How to reach me? Email: hsy040506@163.com
